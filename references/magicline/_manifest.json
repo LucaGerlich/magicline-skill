@@ -1,0 +1,10 @@
+{
+  "synced_at": 1770207196,
+  "start_urls": [
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi.md",
+    "https://redocly.sportalliance.com/apis/magicline/connectapi/connectapi.md",
+    "https://redocly.sportalliance.com/apis/magicline/deviceapi/deviceapi.md"
+  ],
+  "pages_count": 194,
+  "notes": "This folder is managed by sync_magicline_markdown.py"
+}

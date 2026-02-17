@@ -1,0 +1,1362 @@
+{
+  "pages": {
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "0ac0d746ea3648deaf57f9233b4ef834a240a982594b57f1390c0e5cb7659948",
+      "saved_path": "apis/magicline/openapi/openapi.md",
+      "last_sync": 1770207136
+    },
+    "https://redocly.sportalliance.com/apis/magicline/connectapi/connectapi.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "a5ee5c6f513c97c5253d40a7ef18d778acb8a1389fc12c0b8c6ba93674e78bfd",
+      "saved_path": "apis/magicline/connectapi/connectapi.md",
+      "last_sync": 1770207136
+    },
+    "https://redocly.sportalliance.com/apis/magicline/deviceapi/deviceapi.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "a647dc30fca77752109932bfd39861789d2aa5ee30cc892412053c33ac97e16b",
+      "saved_path": "apis/magicline/deviceapi/deviceapi.md",
+      "last_sync": 1770207136
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/membership-self-service/updateidleperiod.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "7c845d2343078e163707541badf053d91e10ccdf1b684cdf52dfe7cab09c3e7a",
+      "saved_path": "apis/magicline/openapi/openapi/membership-self-service/updateidleperiod.md",
+      "last_sync": 1770207137
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/leads/validateforleadcreation.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "302ed7c08be25a617af10ccfef4e82177f9c18a03de90e264b5d3e63099fb6b7",
+      "saved_path": "apis/magicline/openapi/openapi/leads/validateforleadcreation.md",
+      "last_sync": 1770207137
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/customers/getcustomeraccesscode.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "bf93052c832092c37096ac211dc6feffc3c04ce69e5129bf9245a79ca6088561",
+      "saved_path": "apis/magicline/openapi/openapi/customers/getcustomeraccesscode.md",
+      "last_sync": 1770207137
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/customers-account/updatecustomerpaymentinstrument.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "641d197b942970d6143f5699195a8e7dbf65f74a3bc204a397e91ac9895a2097",
+      "saved_path": "apis/magicline/openapi/openapi/customers-account/updatecustomerpaymentinstrument.md",
+      "last_sync": 1770207137
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/membership-self-service/getidleperiodconfig.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "fa25970008c3b5114d5ab7dddd9397090e2b9b2e6b6116a3878e8760c046faea",
+      "saved_path": "apis/magicline/openapi/openapi/membership-self-service/getidleperiodconfig.md",
+      "last_sync": 1770207138
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/customers/getdocuments.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "c30c6b9469815037f8e139927bfd0237d7143983e4ddcb96118616aae5d467c9",
+      "saved_path": "apis/magicline/openapi/openapi/customers/getdocuments.md",
+      "last_sync": 1770207138
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/classes/validateclassslot.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "a5c81a3a0a5e2b3bf7792b77487a9e8ea87f26749494c3d783341c2c18cbe82a",
+      "saved_path": "apis/magicline/openapi/openapi/classes/validateclassslot.md",
+      "last_sync": 1770207138
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/customers-communication/createcommunicationinnewcommunicationthread.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "f515c31a1949be18e5aad9c6df3b8b988ad0aa08c9d36e398d0c84398fa72ec3",
+      "saved_path": "apis/magicline/openapi/openapi/customers-communication/createcommunicationinnewcommunicationthread.md",
+      "last_sync": 1770207139
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/trial-offers/validateclassslotfortrialoffers.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "caf96a6ab6b48f9d50bff8dbcd76ede7fc7bb5f3c8a80a359cfb002115f9e6ba",
+      "saved_path": "apis/magicline/openapi/openapi/trial-offers/validateclassslotfortrialoffers.md",
+      "last_sync": 1770207139
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/cross-studio/getcrossstudiocustomerbyid.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "1443c8f92180f59d4f58cafda6941e4d577d43f3bf9b90e97af563715ef406b1",
+      "saved_path": "apis/magicline/openapi/openapi/cross-studio/getcrossstudiocustomerbyid.md",
+      "last_sync": 1770207139
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/memberships/postmembershipswitchpreview.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "0f284b54ad3eb2689ec7b49d8e5c3f907f98d5bfda5b8ebaee054b6827e364f2",
+      "saved_path": "apis/magicline/openapi/openapi/memberships/postmembershipswitchpreview.md",
+      "last_sync": 1770207139
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/customers-self-service/createcustomermasterdataamendment.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "0234c60a7e90b4f17362f5995ced780f8911972bbe3fab8bfc39a7db61357b22",
+      "saved_path": "apis/magicline/openapi/openapi/customers-self-service/createcustomermasterdataamendment.md",
+      "last_sync": 1770207140
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/finance/getexport.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "b66b3761885e6843ff884d349186a413c7e5e5cb2f9c8ea3f9132101140be981",
+      "saved_path": "apis/magicline/openapi/openapi/finance/getexport.md",
+      "last_sync": 1770207140
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/studios/getstudioinformation.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "ed40eedcdcadbdef245809f647c120d03f69c3377fa579514d071ed4c886da7c",
+      "saved_path": "apis/magicline/openapi/openapi/studios/getstudioinformation.md",
+      "last_sync": 1770207140
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/classes/getclassbookingbyid.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "a4d3562b911a1590966ca01542e4a23d0062318b5c2c65814ece1bd32608fa3c",
+      "saved_path": "apis/magicline/openapi/openapi/classes/getclassbookingbyid.md",
+      "last_sync": 1770207141
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/customers-self-service/createcustomeraddressdataamendment.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "31f91731864fa2452cf3706dca45f34f4d176ca038d7c97ea1b7dbf17f1f5264",
+      "saved_path": "apis/magicline/openapi/openapi/customers-self-service/createcustomeraddressdataamendment.md",
+      "last_sync": 1770207141
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/classes/bookclassslot.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "a22cba209e4eaac639022124a2c2a43764bff48cbd5858a8940b1cc4e12bcc37",
+      "saved_path": "apis/magicline/openapi/openapi/classes/bookclassslot.md",
+      "last_sync": 1770207141
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/customers/getcustomermeasurement.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "820a2117ffd8622437eb2700ca56778934071cf9a92b5f1dad5cbbdec3ed3f75",
+      "saved_path": "apis/magicline/openapi/openapi/customers/getcustomermeasurement.md",
+      "last_sync": 1770207141
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/customers-account/bookcustomerpayment.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "7c5281e172711cced4b63dee319cb7499a20e24e57234afc4391535477ba1936",
+      "saved_path": "apis/magicline/openapi/openapi/customers-account/bookcustomerpayment.md",
+      "last_sync": 1770207142
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/customers-communication/getcommunicationpreferences.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "d9f06a4b9c5528defabac7330c0f3ca82f809d9e668619c05a758ec567287796",
+      "saved_path": "apis/magicline/openapi/openapi/customers-communication/getcommunicationpreferences.md",
+      "last_sync": 1770207142
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/customers/addaccessmediums.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "c3c181e80b5368b3626d0418e080e9a6ccbe1875b5590ced95ad648667fe26b7",
+      "saved_path": "apis/magicline/openapi/openapi/customers/addaccessmediums.md",
+      "last_sync": 1770207142
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/membership-self-service/getidleperiods.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "6c627104f582433674a7ac599901b6471898b7e071418f58cb3c41b5c15c4dcb",
+      "saved_path": "apis/magicline/openapi/openapi/membership-self-service/getidleperiods.md",
+      "last_sync": 1770207143
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/classes/getactiveclasses.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "5b9d4aa4593a5e61a8104f4828f9f8cd3f1728bd58252f078007d10cb2db054d",
+      "saved_path": "apis/magicline/openapi/openapi/classes/getactiveclasses.md",
+      "last_sync": 1770207143
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/memberships/getmembershipoffers.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "f2e803c7b1433ba60bfbf8e9dbfc1ed9b54bd217adb30f7b10fc7c5f6428002e",
+      "saved_path": "apis/magicline/openapi/openapi/memberships/getmembershipoffers.md",
+      "last_sync": 1770207143
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/trial-offers/bookclassslotfortrialoffers.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "25f8075b3aff968fb6f876273a0e9b5df41d5d32cfedf994fb088208196d978a",
+      "saved_path": "apis/magicline/openapi/openapi/trial-offers/bookclassslotfortrialoffers.md",
+      "last_sync": 1770207143
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/appointments/getappointmentbooking.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "7031115ecdabea2cf475bd6f06ea389c58ba9ec9bddf20dcf56b7ea663ae873f",
+      "saved_path": "apis/magicline/openapi/openapi/appointments/getappointmentbooking.md",
+      "last_sync": 1770207144
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/appointments/getappointmentbookings.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "233ad2cd8ab33041ce45ff718a6ca54689b4da31dcac852c9542439f4434e96e",
+      "saved_path": "apis/magicline/openapi/openapi/appointments/getappointmentbookings.md",
+      "last_sync": 1770207144
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/trial-offers/confirmtrialofferbooking.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "962053fd8e0e90cb2a7fa62b30c9b2ffbef1b4365e649700ee638d9268278a76",
+      "saved_path": "apis/magicline/openapi/openapi/trial-offers/confirmtrialofferbooking.md",
+      "last_sync": 1770207144
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/membership-self-service/getcontractdata.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "b36104e7bc15479f6ab44a096a1405ca213ccd5b2a4be7633f941fcb7743d584",
+      "saved_path": "apis/magicline/openapi/openapi/membership-self-service/getcontractdata.md",
+      "last_sync": 1770207145
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/studios/updatestudiotags.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "93c5b9f868439f80c91917d7e83cf00f16b2ae477568f28737dd34b322faaede",
+      "saved_path": "apis/magicline/openapi/openapi/studios/updatestudiotags.md",
+      "last_sync": 1770207145
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/memberships/signupmembership.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "ca73da18480ca33bdfe7355c548f8034052a11b7c1ddc3f11bdbf8fb077192b0",
+      "saved_path": "apis/magicline/openapi/openapi/memberships/signupmembership.md",
+      "last_sync": 1770207145
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/appointments/getbookableappointments.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "f7d9219ea516e2e57d0d1ffb25d88c25b34c68e10ca90083819a90c27355551f",
+      "saved_path": "apis/magicline/openapi/openapi/appointments/getbookableappointments.md",
+      "last_sync": 1770207146
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/membership-self-service/validateidleperiodrequest.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "a5b8e64ae380e8d0e7a53ccdf2c1594274d8c7140b6c9e9a5bdf90f5e570173c",
+      "saved_path": "apis/magicline/openapi/openapi/membership-self-service/validateidleperiodrequest.md",
+      "last_sync": 1770207146
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/customers/updateaccessmediums.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "48a784122e3fb3726fb994d92fb284b75ae082d0bc4d92ffb7c734c62065d614",
+      "saved_path": "apis/magicline/openapi/openapi/customers/updateaccessmediums.md",
+      "last_sync": 1770207146
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/membership-self-service/withdrawcontractcancelation.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "584ce9f8db477e82563763235d45877ea49e18f701fc4df021d2452713cd1d5e",
+      "saved_path": "apis/magicline/openapi/openapi/membership-self-service/withdrawcontractcancelation.md",
+      "last_sync": 1770207146
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/appointments/validateforappointmentbooking.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "ad03bf7e57b5ee7ef61a4e1870b2373dbfb02e30f9a5d2306eea2166a41751d4",
+      "saved_path": "apis/magicline/openapi/openapi/appointments/validateforappointmentbooking.md",
+      "last_sync": 1770207147
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/cross-studio/getstudioswithactivemembershipoffers.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "7c9c3ae65861e250545a2cf257db97194fa777aab7bfbd1f207bdf6a0b09895a",
+      "saved_path": "apis/magicline/openapi/openapi/cross-studio/getstudioswithactivemembershipoffers.md",
+      "last_sync": 1770207147
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/customers-self-service/withdrawamendment.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "5faae98ef22946d4116139bc0b69a2661fadae26555a306937768c6fa34f4070",
+      "saved_path": "apis/magicline/openapi/openapi/customers-self-service/withdrawamendment.md",
+      "last_sync": 1770207147
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/trial-offers/validateforleadcustomercreation.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "54318cf8826c84197f008e3e40b29694570da2a687ed148058a7d3ddf2ff5ba4",
+      "saved_path": "apis/magicline/openapi/openapi/trial-offers/validateforleadcustomercreation.md",
+      "last_sync": 1770207148
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/classes/getclassbyid.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "810afc47b7b2a862e25ebb1111d157d13d852084de05ee04b7bf8c4715885f2c",
+      "saved_path": "apis/magicline/openapi/openapi/classes/getclassbyid.md",
+      "last_sync": 1770207148
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/employees/getemployees.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "51fe8a52f524eaa17e4b0e3d1cb93f6baaa57fbbce84cf1cd34d2201873e4560",
+      "saved_path": "apis/magicline/openapi/openapi/employees/getemployees.md",
+      "last_sync": 1770207148
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/trial-offers/getclassslotsfortrialoffers.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "f3481cb92f6abc55a37483e7ab82a7e3b88d3609a29d98bb565d9c2bfeb9bc5d",
+      "saved_path": "apis/magicline/openapi/openapi/trial-offers/getclassslotsfortrialoffers.md",
+      "last_sync": 1770207149
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/cross-studio/getcrossstudiocustomerscheckinhistory.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "6d7350c55c53abb958418c43ff26f00c490f8f9cbf7b50386722eb65095a7577",
+      "saved_path": "apis/magicline/openapi/openapi/cross-studio/getcrossstudiocustomerscheckinhistory.md",
+      "last_sync": 1770207149
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/appointments/getbookableappointment.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "ec1b4f6184e001b115d9949a227b5d13e2ca2f01b655847b7ae95179aa1308b7",
+      "saved_path": "apis/magicline/openapi/openapi/appointments/getbookableappointment.md",
+      "last_sync": 1770207149
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/customers/usebenefit.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "e10d2fce6cfa43294939d52812e152fa654561a6d3c5cfe440bcf3d0ed0810ff",
+      "saved_path": "apis/magicline/openapi/openapi/customers/usebenefit.md",
+      "last_sync": 1770207149
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/customers-self-service/getcustomerpaymentdata.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "0cd95979244606ac595c36c2a61dda282f41bed01b14580de4a9c37517815115",
+      "saved_path": "apis/magicline/openapi/openapi/customers-self-service/getcustomerpaymentdata.md",
+      "last_sync": 1770207150
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/customers/switchstudio.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "53edcfa6fead73117c45cb2b3a11d29bc94ae74db0c0ae4197bf8dcfd85c39ff",
+      "saved_path": "apis/magicline/openapi/openapi/customers/switchstudio.md",
+      "last_sync": 1770207150
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/customers/searchcustomers.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "0c3cbe745ea6652574c7c38b709826b4525d53279c52a838c8067779be06fbdf",
+      "saved_path": "apis/magicline/openapi/openapi/customers/searchcustomers.md",
+      "last_sync": 1770207150
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/appointments/deleteappointmentbooking.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "5b9accc35ee2ad948a03222df793f555e97a3ec309f1e0cdf3ab4e285e1b00fd",
+      "saved_path": "apis/magicline/openapi/openapi/appointments/deleteappointmentbooking.md",
+      "last_sync": 1770207151
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/customers/updateimage.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "fa94b5d3be188e339bf3ae82d25859c1c011e9ae3f16d5b2c0e4c4b4e8c4580e",
+      "saved_path": "apis/magicline/openapi/openapi/customers/updateimage.md",
+      "last_sync": 1770207151
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/employees/getemployee.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "f14c735104f10beef7f16b311df39d4ad1571907fdf95ccbfab4e3805446fae7",
+      "saved_path": "apis/magicline/openapi/openapi/employees/getemployee.md",
+      "last_sync": 1770207152
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/customers-self-service/createcustomerpaymentdataamendment.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "fe87e22eed9d629e9524811c8a87f8eb1833d89b1cc1da751ae649661697224b",
+      "saved_path": "apis/magicline/openapi/openapi/customers-self-service/createcustomerpaymentdataamendment.md",
+      "last_sync": 1770207153
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/customers-self-service/getcustomercontactdata.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "230ad7394adafb0b1b8abcc53c4ef14c77197b60b3e4972bc162164473a8bd2d",
+      "saved_path": "apis/magicline/openapi/openapi/customers-self-service/getcustomercontactdata.md",
+      "last_sync": 1770207153
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/membership-self-service/getadditionalmodules.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "52b75c73fdd36b6325e44470db22d44d69280206718032facc101522bcf275f3",
+      "saved_path": "apis/magicline/openapi/openapi/membership-self-service/getadditionalmodules.md",
+      "last_sync": 1770207153
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/membership-self-service/purchaseadditionalmodulecontract.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "680b91e1d0ca8da696da02680bf8ce6678527d4e29ea4d0f20239905aacbae45",
+      "saved_path": "apis/magicline/openapi/openapi/membership-self-service/purchaseadditionalmodulecontract.md",
+      "last_sync": 1770207153
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/customers/getbenefits.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "bd0d4dfe3d395680c8dbd81ecac231652d65b783b4c2b250c063c7ba996ffd84",
+      "saved_path": "apis/magicline/openapi/openapi/customers/getbenefits.md",
+      "last_sync": 1770207154
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/studios/getall.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "71ea4450133923e588a35272fed861716567fbf32d3168eb34902a527c6d9f83",
+      "saved_path": "apis/magicline/openapi/openapi/studios/getall.md",
+      "last_sync": 1770207154
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/appointments/getbookableappointmentslots.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "322723d327cd59e6cdb7ed9e479d5119346d3269b76497c4fbc5c4408be76d47",
+      "saved_path": "apis/magicline/openapi/openapi/appointments/getbookableappointmentslots.md",
+      "last_sync": 1770207154
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/membership-self-service/withdrawidleperiod.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "7d0ddbca720c75de2d4dccfd4772b06a35264a8308f4dfe05342ab247ce5fdc7",
+      "saved_path": "apis/magicline/openapi/openapi/membership-self-service/withdrawidleperiod.md",
+      "last_sync": 1770207155
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/customers/getcustomerby.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "9b744386c8c009cfed6526b19affc65ef28820a02e293f45d1f3c55f7a6774cd",
+      "saved_path": "apis/magicline/openapi/openapi/customers/getcustomerby.md",
+      "last_sync": 1770207155
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/trial-offers/getbookabletrialofferappointments.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "0498b5ec53713233eef8fa100996caf2a772ab73799b1940e7e454203e2fc042",
+      "saved_path": "apis/magicline/openapi/openapi/trial-offers/getbookabletrialofferappointments.md",
+      "last_sync": 1770207155
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/trial-offers/gettrialofferconfig.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "c11a366bf1d281de9a2ffccae17361a6172d5357998858e3feb4d1dc5ffefdd0",
+      "saved_path": "apis/magicline/openapi/openapi/trial-offers/gettrialofferconfig.md",
+      "last_sync": 1770207155
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/finance/updatedebtcollection.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "accc6bcf68c468fc6f65771322c1789110d184d7e2630a4f900d8cb8dd5d668e",
+      "saved_path": "apis/magicline/openapi/openapi/finance/updatedebtcollection.md",
+      "last_sync": 1770207156
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/customers/createcustomer.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "1e9aac04704fb485f769c12a4620809e1fffa04fdd62964491d53a2b3bdad00a",
+      "saved_path": "apis/magicline/openapi/openapi/customers/createcustomer.md",
+      "last_sync": 1770207156
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/appointments/bookappointmentbooking.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "1a01098c19a99aeaaea07713feca00d02da6bda97811526a45e38a17b622df48",
+      "saved_path": "apis/magicline/openapi/openapi/appointments/bookappointmentbooking.md",
+      "last_sync": 1770207156
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/membership-self-service/createidleperiodamendment.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "f2438ec8ab71f534ede81f698a58cf5369ec0899655358146430b5630555c4f9",
+      "saved_path": "apis/magicline/openapi/openapi/membership-self-service/createidleperiodamendment.md",
+      "last_sync": 1770207157
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/customers/getdocumentbyid.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "f90a8a35d67b818bb333a2aee83338d9a2867256d6740175c8e54b56ccccfc41",
+      "saved_path": "apis/magicline/openapi/openapi/customers/getdocumentbyid.md",
+      "last_sync": 1770207157
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/finance/getdebtcollectionconfiguration.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "8a10270cb718575f71ec71ac2d98fd5eaaddb0e555edea28d700332cb6bb3608",
+      "saved_path": "apis/magicline/openapi/openapi/finance/getdebtcollectionconfiguration.md",
+      "last_sync": 1770207157
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/customers-communication/createcommunicationinexistingcommunicationthread.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "e2df3d9158b9bffe7487864f47568d9564859d12cb78eb12e714d636408ba561",
+      "saved_path": "apis/magicline/openapi/openapi/customers-communication/createcommunicationinexistingcommunicationthread.md",
+      "last_sync": 1770207158
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/customers/getcustomerscheckinhistory.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "ea460a6ca41941131e175d41a86a6a7263d75f1bee6994b600775ac26071f95d",
+      "saved_path": "apis/magicline/openapi/openapi/customers/getcustomerscheckinhistory.md",
+      "last_sync": 1770207158
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/membership-self-service/withdrawadditionalmodulecontractcancelation.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "13a6841a46c54b3729071aa470a86a00577c1d9404abf6d19b524d27a5d579b2",
+      "saved_path": "apis/magicline/openapi/openapi/membership-self-service/withdrawadditionalmodulecontractcancelation.md",
+      "last_sync": 1770207158
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/finance/getdebtcollectioncases.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "79875080fe43bedb87f7e9ef2355d9b4184d1e16a641505088e3d44e2d41236f",
+      "saved_path": "apis/magicline/openapi/openapi/finance/getdebtcollectioncases.md",
+      "last_sync": 1770207158
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/studios/getutilization.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "b7e375aea65fa45fd10fb5114b99d561ff4d1ce5ec42f435c8eeb976b62964b3",
+      "saved_path": "apis/magicline/openapi/openapi/studios/getutilization.md",
+      "last_sync": 1770207159
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/trial-offers/validateforappointmentbookingfortrialoffers.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "b94a2cfea5e4523e26f6f39d0c59054c057b26c0dc6a0b105333f0c580032288",
+      "saved_path": "apis/magicline/openapi/openapi/trial-offers/validateforappointmentbookingfortrialoffers.md",
+      "last_sync": 1770207159
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/membership-self-service/validateadditionalmodulecontractrequest.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "b1df1154e85a8dd3eceabccac8a5e2571b1a36107f07c446e293a309de4ad2a7",
+      "saved_path": "apis/magicline/openapi/openapi/membership-self-service/validateadditionalmodulecontractrequest.md",
+      "last_sync": 1770207159
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/memberships/addmembership.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "d0860665851bdc9f5b292512d726cc064f9329b99346b9e91f1b0b8f3f195389",
+      "saved_path": "apis/magicline/openapi/openapi/memberships/addmembership.md",
+      "last_sync": 1770207160
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/finance/getdebtors.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "e2fac15112200efbbf978246a93d5b971bf7cdecc471343cacba4e780caf0aca",
+      "saved_path": "apis/magicline/openapi/openapi/finance/getdebtors.md",
+      "last_sync": 1770207160
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/customers/getcustomers.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "71bd323c8497942ef033b15dcd70f4613eac8eb4583c90cafa6ff280fbab8333",
+      "saved_path": "apis/magicline/openapi/openapi/customers/getcustomers.md",
+      "last_sync": 1770207160
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/cross-studio/getcrossstudiocustomerby.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "aa9a7b365a1e1df2636fb4417ca2bf538f674350d890419e562f481baac53d8a",
+      "saved_path": "apis/magicline/openapi/openapi/cross-studio/getcrossstudiocustomerby.md",
+      "last_sync": 1770207161
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/customers-communication/updatecommunicationpreferences.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "deefe45458fc853e66608f1daf6292206f787ee2f91e04e8de503969a0ea7b31",
+      "saved_path": "apis/magicline/openapi/openapi/customers-communication/updatecommunicationpreferences.md",
+      "last_sync": 1770207161
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/membership-self-service/getpurchasableadditionalmodules.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "d8a0a87925dee5a151f0f02aa448ff1d9db1cf42a166539c24d9c1dd63eb9935",
+      "saved_path": "apis/magicline/openapi/openapi/membership-self-service/getpurchasableadditionalmodules.md",
+      "last_sync": 1770207161
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/finance/getdebtcollectionblockeddebts.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "e199ef344215c90b75c26308d2365469fceec5a18a8ec3ca5f3535390cee124d",
+      "saved_path": "apis/magicline/openapi/openapi/finance/getdebtcollectionblockeddebts.md",
+      "last_sync": 1770207162
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/memberships/getmembershipswitchconfigurationsforcustomer.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "57641216ba0090030a4d598f58686508daaf3af67087d0d8f67f0a0bbbbda656",
+      "saved_path": "apis/magicline/openapi/openapi/memberships/getmembershipswitchconfigurationsforcustomer.md",
+      "last_sync": 1770207162
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/customers/getadditionalinformationfields.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "5d842ec91f51c849dfaf985bcd67b2fcb97e136e64f4d653ed548206719ab5de",
+      "saved_path": "apis/magicline/openapi/openapi/customers/getadditionalinformationfields.md",
+      "last_sync": 1770207162
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/customers-account/getcustomersaccountbalancedata.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "c600cb81a34fdf14f26573dd2abace6c140e42057a1da728574e9066d580a853",
+      "saved_path": "apis/magicline/openapi/openapi/customers-account/getcustomersaccountbalancedata.md",
+      "last_sync": 1770207162
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/customers-self-service/getcustomeraddressdata.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "0b98052cb797780a06ab56c36c87d0bdfaa0721bfe643c3898088b2b2f7d92c7",
+      "saved_path": "apis/magicline/openapi/openapi/customers-self-service/getcustomeraddressdata.md",
+      "last_sync": 1770207163
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/memberships/switchmembership.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "82e2ba09cf12f2b09811ea7201d1f50d90ef15e1257e8c71ca17c54a983e0043",
+      "saved_path": "apis/magicline/openapi/openapi/memberships/switchmembership.md",
+      "last_sync": 1770207163
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/devices/getdevices.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "21c2b07dbc187a949723d224870080f1c434982b86e9315fff1abf0a4dcf4875",
+      "saved_path": "apis/magicline/openapi/openapi/devices/getdevices.md",
+      "last_sync": 1770207163
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/cross-studio/searchcrossstudiocustomers.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "6993a8840f4662971c61a8a760334ea073101fc953eb0971cd7e8cd89836113f",
+      "saved_path": "apis/magicline/openapi/openapi/cross-studio/searchcrossstudiocustomers.md",
+      "last_sync": 1770207164
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/customers/getcustomerbyid.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "400606228c638dc5378d783a912f421c4051b483d4b1bd92b2b97681e672f68d",
+      "saved_path": "apis/magicline/openapi/openapi/customers/getcustomerbyid.md",
+      "last_sync": 1770207164
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/memberships/postsignuppreview.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "3283d43760ff727a441a495b289ec1303ffb59f3b4d9eb1e11e25dc191f32677",
+      "saved_path": "apis/magicline/openapi/openapi/memberships/postsignuppreview.md",
+      "last_sync": 1770207164
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/finance/getdebtcollectionblockeddebtors.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "c603e53ca35882e536590eadab80f44ec3b68cf30c2ae312d79c7f7e7633e10d",
+      "saved_path": "apis/magicline/openapi/openapi/finance/getdebtcollectionblockeddebtors.md",
+      "last_sync": 1770207165
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/membership-self-service/createmodulecontractcancelationamendment.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "3aabe0bf6c93e86d2c436ffe2be3ace960eb1a18494fe77b858cc8d80ebdbdad",
+      "saved_path": "apis/magicline/openapi/openapi/membership-self-service/createmodulecontractcancelationamendment.md",
+      "last_sync": 1770207165
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/membership-self-service/getidleperiodbyid.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "df35e0e081996651f3857aec387399602cf1a0f5c229af026aadff76f988f818",
+      "saved_path": "apis/magicline/openapi/openapi/membership-self-service/getidleperiodbyid.md",
+      "last_sync": 1770207165
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/checkin-vouchers/redeemcheckinvoucher.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "92f3072a555da9975bfb4774a1ef811839796c421dbcc6902a7eb3b0ef0e444e",
+      "saved_path": "apis/magicline/openapi/openapi/checkin-vouchers/redeemcheckinvoucher.md",
+      "last_sync": 1770207165
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/finance/createexport.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "2dd3583261fa4d2317f901b5a79d8cc1d4da76417ef87f7f51dadf8c977a1eac",
+      "saved_path": "apis/magicline/openapi/openapi/finance/createexport.md",
+      "last_sync": 1770207166
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/leads/createlead.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "262bf237ff9020d7d7ba83e7583f85d8f4d74078521ce4d5a6fcb861f69ce79d",
+      "saved_path": "apis/magicline/openapi/openapi/leads/createlead.md",
+      "last_sync": 1770207166
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/memberships/getmembershipswitchconfigurationforcustomer.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "2d7348885e29e3201adf468b57ad896410fd67cbb24577f914c621ecbca567b0",
+      "saved_path": "apis/magicline/openapi/openapi/memberships/getmembershipswitchconfigurationforcustomer.md",
+      "last_sync": 1770207166
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/customers/deleteaccessmediums.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "3fbf3109407ff93c62f0eed431cecaff736f612360d3a4c02edc879876f1ef04",
+      "saved_path": "apis/magicline/openapi/openapi/customers/deleteaccessmediums.md",
+      "last_sync": 1770207167
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/membership-self-service/idleperiodupdatepreview.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "b19204d0eb350891be38e76154308b8fd38b3b91061bfa46579d22d36577c599",
+      "saved_path": "apis/magicline/openapi/openapi/membership-self-service/idleperiodupdatepreview.md",
+      "last_sync": 1770207167
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/customers/createcustomerweighing.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "fa1e3e17bc12ff1f8796c71802fb7375121dd8d74b7dd89afa91f8893a12c932",
+      "saved_path": "apis/magicline/openapi/openapi/customers/createcustomerweighing.md",
+      "last_sync": 1770207167
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/customers/getcustomerscontracts.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "32214e7a0c455a0b69cfc699ea2bd8873e139b28c4503f6641674b26b52be685",
+      "saved_path": "apis/magicline/openapi/openapi/customers/getcustomerscontracts.md",
+      "last_sync": 1770207167
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/classes/getclassslotbyid.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "7b2438a9c88d7a803d0089d426bddf585158497de1869fa1639e81b800364445",
+      "saved_path": "apis/magicline/openapi/openapi/classes/getclassslotbyid.md",
+      "last_sync": 1770207168
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/membership-self-service/getcontractcancelationreasondata.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "d7ff01e40cb0d00fa862fd5daaee59d2787768dc4d5dee0327c922ebbbd7428f",
+      "saved_path": "apis/magicline/openapi/openapi/membership-self-service/getcontractcancelationreasondata.md",
+      "last_sync": 1770207168
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/customers/setadditionalinformationfieldassignments.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "34f609122514095592d80bec7e499418591d17f88eb272cf47adce3a215f3b41",
+      "saved_path": "apis/magicline/openapi/openapi/customers/setadditionalinformationfieldassignments.md",
+      "last_sync": 1770207168
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/customers/getbenefitsbycardnumber.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "0d21a33b9f6db25b72be0b07452fa57e72df62a7eaf63874330c7e88afc96350",
+      "saved_path": "apis/magicline/openapi/openapi/customers/getbenefitsbycardnumber.md",
+      "last_sync": 1770207169
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/classes/getclassslotsformultipleclasses.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "7922696627cb8a1f65513466e4c30d593212155be53911b447b011024f6edbbf",
+      "saved_path": "apis/magicline/openapi/openapi/classes/getclassslotsformultipleclasses.md",
+      "last_sync": 1770207169
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/devices/activatedevice.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "b0378a3ecfb0cee7cf1df002a3a3b702412419f923e7d795aadfae95ee72469a",
+      "saved_path": "apis/magicline/openapi/openapi/devices/activatedevice.md",
+      "last_sync": 1770207169
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/memberships/postmembershippreview.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "c249a3b5000d50a44124056249704d845964f673724b07d175536ddf1632ae74",
+      "saved_path": "apis/magicline/openapi/openapi/memberships/postmembershippreview.md",
+      "last_sync": 1770207170
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/customers/setaccessrestriction.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "54687fd6d5dac0a33fc0fae24c5379ca56648f170271c0866bfd5e3547c01502",
+      "saved_path": "apis/magicline/openapi/openapi/customers/setaccessrestriction.md",
+      "last_sync": 1770207170
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/memberships/getmembershipofferbyid.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "5cca92694021d71863a4283c397af0e8cb712b3cd750f07f128a1cc4a0775c25",
+      "saved_path": "apis/magicline/openapi/openapi/memberships/getmembershipofferbyid.md",
+      "last_sync": 1770207170
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/customers/addaccessmedium.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "d3e55017d626f0aa1139620912009d402effc023f38adb55885bc0d4e376d414",
+      "saved_path": "apis/magicline/openapi/openapi/customers/addaccessmedium.md",
+      "last_sync": 1770207171
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/customers/uploaddocument.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "48247f8610fe7b91b87e0da781ca94debfbb1ad97a3db652b28608545668aab9",
+      "saved_path": "apis/magicline/openapi/openapi/customers/uploaddocument.md",
+      "last_sync": 1770207171
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/membership-self-service/getadditionalmodulecontract.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "3900a95e7398166ff9ee96e75a0bcf7e25829d515dc9583e4ceb7f7df7a6f52b",
+      "saved_path": "apis/magicline/openapi/openapi/membership-self-service/getadditionalmodulecontract.md",
+      "last_sync": 1770207171
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/finance/gettransferdetails.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "3f8a40c44a6e8cd4d6deaaede4b013bd2d15143d0c5a33058f345c6474707887",
+      "saved_path": "apis/magicline/openapi/openapi/finance/gettransferdetails.md",
+      "last_sync": 1770207172
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/customers/deleteaccessrestriction.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "d5a99ce16c13caaea6c77bb74737ab22f85b08f70b75e24fa07059e45aecc12b",
+      "saved_path": "apis/magicline/openapi/openapi/customers/deleteaccessrestriction.md",
+      "last_sync": 1770207172
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/membership-self-service/getremainingidleperiods.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "b6b7c57fca0d4d835fddc19642433a1aef6eabe77b1b8cf69387dcf8af4180d7",
+      "saved_path": "apis/magicline/openapi/openapi/membership-self-service/getremainingidleperiods.md",
+      "last_sync": 1770207172
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/classes/getclassbookingsbycustomerid.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "e949cfffb81ef87a94ad3837e7429662cd6d77b085aac775cb9e831ca9cd9fb8",
+      "saved_path": "apis/magicline/openapi/openapi/classes/getclassbookingsbycustomerid.md",
+      "last_sync": 1770207172
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/trial-offers/bookappointmentfortrialoffer.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "bc61541e47884ad4a97bf67e47d76551145deb0b8b68212bb81507a87875b9b4",
+      "saved_path": "apis/magicline/openapi/openapi/trial-offers/bookappointmentfortrialoffer.md",
+      "last_sync": 1770207173
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/finance/confirmtransfer.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "1d0c618404e416eb8f88197c0667d6dd0a460fea835ab62eea525c684e90e9bd",
+      "saved_path": "apis/magicline/openapi/openapi/finance/confirmtransfer.md",
+      "last_sync": 1770207173
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/customers-account/getcustomersaccountupcomingdata.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "0d3b672d8c98127f2ae44ac577e6c901755b78c095d54629540f24a92fa89d97",
+      "saved_path": "apis/magicline/openapi/openapi/customers-account/getcustomersaccountupcomingdata.md",
+      "last_sync": 1770207174
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/membership-self-service/createcontractcancelationamendment.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "e19403a79ea271cbf0e69fea7106eb105720d4575a4e6f7f286c754b21e4018a",
+      "saved_path": "apis/magicline/openapi/openapi/membership-self-service/createcontractcancelationamendment.md",
+      "last_sync": 1770207174
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/classes/cancelclassslotbyid.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "d10562d6689cae528d95f68fdac87160c967bed283f3056d6df2c54a740a6efe",
+      "saved_path": "apis/magicline/openapi/openapi/classes/cancelclassslotbyid.md",
+      "last_sync": 1770207174
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/trial-offers/createleadcustomer.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "c9e817ce23feab5e99b0e8e848ecd57b87bf1fdfd3d66e9da1b8e10e45cd81f1",
+      "saved_path": "apis/magicline/openapi/openapi/trial-offers/createleadcustomer.md",
+      "last_sync": 1770207175
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/classes/getclassslots.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "0f1ee6721bfff7888c7ce423909c15e3c1da66fba5765bed6cfb34e10d6bfe16",
+      "saved_path": "apis/magicline/openapi/openapi/classes/getclassslots.md",
+      "last_sync": 1770207175
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/customers-account/getcustomersaccounttransactiondata.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "cb0188c81236146a4187f45687480ba5ec8128b1f05f20e6c0bd87426e5a55dd",
+      "saved_path": "apis/magicline/openapi/openapi/customers-account/getcustomersaccounttransactiondata.md",
+      "last_sync": 1770207175
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/trial-offers/getbookableappointmentslotsfortrialoffers.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "a6623a7824b8e6697998c7b9c92f68cd000bedfb7b59402efb19a54e206d3f56",
+      "saved_path": "apis/magicline/openapi/openapi/trial-offers/getbookableappointmentslotsfortrialoffers.md",
+      "last_sync": 1770207175
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/payments/usersession.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "66e090201f99ed230d2ee2c0db4820cf92195eb3a236bb3cf1c27cefd93a1ae5",
+      "saved_path": "apis/magicline/openapi/openapi/payments/usersession.md",
+      "last_sync": 1770207176
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/customers-self-service/createcustomercontactdataamendment.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "aa0a7ce8aacd704692e38e4c8072f4208364c84540f36a4ff985dc82dfacfe6b",
+      "saved_path": "apis/magicline/openapi/openapi/customers-self-service/createcustomercontactdataamendment.md",
+      "last_sync": 1770207176
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/studios/confirmactivation.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "a9f3f7206ae07f3609dc15702cbd27beaf668da04c99fb38f16cc3d6b41cdc88",
+      "saved_path": "apis/magicline/openapi/openapi/studios/confirmactivation.md",
+      "last_sync": 1770207176
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/customers-self-service/getcustomermasterdata.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "ba05766eef27d36b2e0b3e1d6634fde435d9f05a0132193745d6b12fffe1d0f0",
+      "saved_path": "apis/magicline/openapi/openapi/customers-self-service/getcustomermasterdata.md",
+      "last_sync": 1770207177
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/customers/getcustomercontractsby.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "d2ba70351944730af751fc0b45d9a66199b40215547ad78d85b798e4e57dbef9",
+      "saved_path": "apis/magicline/openapi/openapi/customers/getcustomercontractsby.md",
+      "last_sync": 1770207177
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/trial-offers/getbookabletrialofferclasses.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "3d8788b16e424ff236a1bda858c35731fc0b803d77f6169b414a0962bce393a5",
+      "saved_path": "apis/magicline/openapi/openapi/trial-offers/getbookabletrialofferclasses.md",
+      "last_sync": 1770207177
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/leads/getleadconfig.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "52d3cb9162211d6973ffe8fcde7f3e8d17814ca606d9d820ddec180e864191f0",
+      "saved_path": "apis/magicline/openapi/openapi/leads/getleadconfig.md",
+      "last_sync": 1770207177
+    },
+    "https://redocly.sportalliance.com/apis/magicline/connectapi/connectapi/studios/getenabledcommunicationfeaturemodules.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "aadfc5c2e1d6500b13fb5ea3ef42a2000a21826d8c568dcaea0ba103a08f0978",
+      "saved_path": "apis/magicline/connectapi/connectapi/studios/getenabledcommunicationfeaturemodules.md",
+      "last_sync": 1770207178
+    },
+    "https://redocly.sportalliance.com/apis/magicline/connectapi/connectapi/referral/getreferralsbystudioid.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "67ac20d69b86c477ae344b2c3e6685a3018288bd24c925a52fa6910496f92a6a",
+      "saved_path": "apis/magicline/connectapi/connectapi/referral/getreferralsbystudioid.md",
+      "last_sync": 1770207178
+    },
+    "https://redocly.sportalliance.com/apis/magicline/connectapi/connectapi/creditcard-tokenization/initiatetokenizationv2.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "73425c2d03d80814df35063c970e95677170cbe52728b1a2769cd9af57830ec1",
+      "saved_path": "apis/magicline/connectapi/connectapi/creditcard-tokenization/initiatetokenizationv2.md",
+      "last_sync": 1770207178
+    },
+    "https://redocly.sportalliance.com/apis/magicline/connectapi/connectapi/campaigns/listallactivecampaigns.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "106d1d3fbf2cd9053bee5ef2bbfe632a0ec8863755119bba6d89385439dd608d",
+      "saved_path": "apis/magicline/connectapi/connectapi/campaigns/listallactivecampaigns.md",
+      "last_sync": 1770207179
+    },
+    "https://redocly.sportalliance.com/apis/magicline/connectapi/connectapi/contracts/getactivecontracts.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "6f9cd3c52e0cefad9dfb60c35c5d3e487d881d24a481867678bb6087b5f25520",
+      "saved_path": "apis/magicline/connectapi/connectapi/contracts/getactivecontracts.md",
+      "last_sync": 1770207179
+    },
+    "https://redocly.sportalliance.com/apis/magicline/connectapi/connectapi/creditcard-tokenization/completetokenization.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "48d1e9ed11198e9c9bfb90cd476ddb373f4c4090fd498724e4ebb82bb9b67d1a",
+      "saved_path": "apis/magicline/connectapi/connectapi/creditcard-tokenization/completetokenization.md",
+      "last_sync": 1770207179
+    },
+    "https://redocly.sportalliance.com/apis/magicline/connectapi/connectapi/creditcard-tokenization/paymentmethodsv2.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "79f32437d02660378aa96698925993038eaac180e7087a6a5b561748bafba2a6",
+      "saved_path": "apis/magicline/connectapi/connectapi/creditcard-tokenization/paymentmethodsv2.md",
+      "last_sync": 1770207179
+    },
+    "https://redocly.sportalliance.com/apis/magicline/connectapi/connectapi/studios/getstudiodetails.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "3f78e670834a6e1cf09e958269a1e3f6b01ed1f1975881e3278928fc72ed0b43",
+      "saved_path": "apis/magicline/connectapi/connectapi/studios/getstudiodetails.md",
+      "last_sync": 1770207180
+    },
+    "https://redocly.sportalliance.com/apis/magicline/connectapi/connectapi/contracts/createcustomerandcontract.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "2499708f10444e95eedc4a3f6fc2fe5244e33bd3e2f33dcb7212f8e10a52ec14",
+      "saved_path": "apis/magicline/connectapi/connectapi/contracts/createcustomerandcontract.md",
+      "last_sync": 1770207180
+    },
+    "https://redocly.sportalliance.com/apis/magicline/connectapi/connectapi/leads/getleadcustomerbyuuid.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "7d5b97f34177735c6692433270bd142c37c699643f074c986c4d87a2b51ca358",
+      "saved_path": "apis/magicline/connectapi/connectapi/leads/getleadcustomerbyuuid.md",
+      "last_sync": 1770207180
+    },
+    "https://redocly.sportalliance.com/apis/magicline/connectapi/connectapi/previews/getpreview.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "75275aa72b138adb14419f912e42641ae91350501d3d061ee847668e84f7529e",
+      "saved_path": "apis/magicline/connectapi/connectapi/previews/getpreview.md",
+      "last_sync": 1770207181
+    },
+    "https://redocly.sportalliance.com/apis/magicline/connectapi/connectapi/studios/getstudio.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "d5c1c53b54d429ec8b43c40039dd9dda128b1a9c2fd30639d518d48c7d404be6",
+      "saved_path": "apis/magicline/connectapi/connectapi/studios/getstudio.md",
+      "last_sync": 1770207181
+    },
+    "https://redocly.sportalliance.com/apis/magicline/connectapi/connectapi/featurecheck/getactivefeatures.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "dd1c8b7967f8d7d120c7b17f124f941e0fc6c3bc774c00fdcccc07b7a2080591",
+      "saved_path": "apis/magicline/connectapi/connectapi/featurecheck/getactivefeatures.md",
+      "last_sync": 1770207181
+    },
+    "https://redocly.sportalliance.com/apis/magicline/connectapi/connectapi/contracts/getratebundlelist.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "b245256bcb8ae17eff3055cb096074daf3b49cd1abfe91b03403c510c9c1d025",
+      "saved_path": "apis/magicline/connectapi/connectapi/contracts/getratebundlelist.md",
+      "last_sync": 1770207182
+    },
+    "https://redocly.sportalliance.com/apis/magicline/connectapi/connectapi/contractvoucher/validatecontractvoucher.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "40f0415d8c15381b8a28cce89318af1697c643047723f497795a480fb663937a",
+      "saved_path": "apis/magicline/connectapi/connectapi/contractvoucher/validatecontractvoucher.md",
+      "last_sync": 1770207182
+    },
+    "https://redocly.sportalliance.com/apis/magicline/connectapi/connectapi/trialsessions/getbookableitem.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "87aaafa27d877bff20af262c2ab2409406d2a42ebcd7498dbabd107b9bb02a13",
+      "saved_path": "apis/magicline/connectapi/connectapi/trialsessions/getbookableitem.md",
+      "last_sync": 1770207182
+    },
+    "https://redocly.sportalliance.com/apis/magicline/connectapi/connectapi/studios/getsepaagreementtext.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "df3a4b43012a513bc16f2cb8b096c0f1b050409900f7167e7f9c26643f055536",
+      "saved_path": "apis/magicline/connectapi/connectapi/studios/getsepaagreementtext.md",
+      "last_sync": 1770207183
+    },
+    "https://redocly.sportalliance.com/apis/magicline/connectapi/connectapi/addressdata/getprovinceinformation.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "0ea7526c552f0b41da26ec2d91fd3374997ef8197bf3b55165f6ca063b53ff29",
+      "saved_path": "apis/magicline/connectapi/connectapi/addressdata/getprovinceinformation.md",
+      "last_sync": 1770207183
+    },
+    "https://redocly.sportalliance.com/apis/magicline/connectapi/connectapi/contractvoucher/redeemcontractvoucher.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "238b9a3b7aa8fd623429c7bc335a55e37bcca37cac6fb6a2a558780517319739",
+      "saved_path": "apis/magicline/connectapi/connectapi/contractvoucher/redeemcontractvoucher.md",
+      "last_sync": 1770207183
+    },
+    "https://redocly.sportalliance.com/apis/magicline/connectapi/connectapi/studios/getutilizationpublic.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "f7cadc6af2cfd582189a2a7c9b1fa61f4117216aed9c702c6e16b007052c6e8a",
+      "saved_path": "apis/magicline/connectapi/connectapi/studios/getutilizationpublic.md",
+      "last_sync": 1770207184
+    },
+    "https://redocly.sportalliance.com/apis/magicline/connectapi/connectapi/contracts/getstudioinfo.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "c320501f3a3aafe4110c5e240c3b7aab64807a497d0b6a808cc9cfa4f984c586",
+      "saved_path": "apis/magicline/connectapi/connectapi/contracts/getstudioinfo.md",
+      "last_sync": 1770207184
+    },
+    "https://redocly.sportalliance.com/apis/magicline/connectapi/connectapi/trialsessions/getleadconfig.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "8d7e8ffadda5d386907a0e3c1ea452b6cf001b74f94d6fe43c5e207ab9ce6cfc",
+      "saved_path": "apis/magicline/connectapi/connectapi/trialsessions/getleadconfig.md",
+      "last_sync": 1770207184
+    },
+    "https://redocly.sportalliance.com/apis/magicline/connectapi/connectapi/contracts/cancelcontract.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "3df650e2602625e48252b7db8ec019bdf190701ad8427eeb1fe1b5f6f00d6533",
+      "saved_path": "apis/magicline/connectapi/connectapi/contracts/cancelcontract.md",
+      "last_sync": 1770207184
+    },
+    "https://redocly.sportalliance.com/apis/magicline/connectapi/connectapi/bankaccount/validateaccountholdername.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "9de417f7f33deac25d740bcf74ae41ddc41d12df791973329d596d3208bbfc46",
+      "saved_path": "apis/magicline/connectapi/connectapi/bankaccount/validateaccountholdername.md",
+      "last_sync": 1770207185
+    },
+    "https://redocly.sportalliance.com/apis/magicline/connectapi/connectapi/trialsessions/book.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "a91f7672907131bd5fc2c5978f988e6fcbeaed88962bf5ca259aa1450ccb4195",
+      "saved_path": "apis/magicline/connectapi/connectapi/trialsessions/book.md",
+      "last_sync": 1770207185
+    },
+    "https://redocly.sportalliance.com/apis/magicline/connectapi/connectapi/studios/getdefaultcommunicationconfiguration.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "76e9dd827a14e8a4387cccbbb1957a3707daf16c0893fad334f4ac545b13e7c6",
+      "saved_path": "apis/magicline/connectapi/connectapi/studios/getdefaultcommunicationconfiguration.md",
+      "last_sync": 1770207185
+    },
+    "https://redocly.sportalliance.com/apis/magicline/connectapi/connectapi/leads/createlead.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "68939e6dd22982ff55baaced2bf826d2ec6bf9bd48dccb277cb2e5df831f8e75",
+      "saved_path": "apis/magicline/connectapi/connectapi/leads/createlead.md",
+      "last_sync": 1770207186
+    },
+    "https://redocly.sportalliance.com/apis/magicline/connectapi/connectapi/tenant/gettenantinfo.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "e008ecd889e88441031f6b6fa2ba9d471a5e91d660d9d30cf81e183d080438dd",
+      "saved_path": "apis/magicline/connectapi/connectapi/tenant/gettenantinfo.md",
+      "last_sync": 1770207186
+    },
+    "https://redocly.sportalliance.com/apis/magicline/connectapi/connectapi/creditcard-tokenization/tokenizationstate.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "c3d5417e7907fff0d0de6e4bf26e4ff6e9d0dde8a39af6c8a6d5d9d35bb652c0",
+      "saved_path": "apis/magicline/connectapi/connectapi/creditcard-tokenization/tokenizationstate.md",
+      "last_sync": 1770207186
+    },
+    "https://redocly.sportalliance.com/apis/magicline/connectapi/connectapi/studios/getstudiolist.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "9f0c788c25a9d068db8d36843575318c7a69c1ce4cc97619286785712cf200db",
+      "saved_path": "apis/magicline/connectapi/connectapi/studios/getstudiolist.md",
+      "last_sync": 1770207186
+    },
+    "https://redocly.sportalliance.com/apis/magicline/connectapi/connectapi/studios/getsepaagreementtextforratebundle.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "1408a598d5dc1eb18c33e9a0c2de7e0f8daeac5bc28798b75c31dd95db667959",
+      "saved_path": "apis/magicline/connectapi/connectapi/studios/getsepaagreementtextforratebundle.md",
+      "last_sync": 1770207187
+    },
+    "https://redocly.sportalliance.com/apis/magicline/connectapi/connectapi/creditcard-tokenization/tokenizationstatev2.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "978bb06cd02c413f22b7462dd19b085f71c35cde20d8c2b6632fbeb01cdbfc70",
+      "saved_path": "apis/magicline/connectapi/connectapi/creditcard-tokenization/tokenizationstatev2.md",
+      "last_sync": 1770207187
+    },
+    "https://redocly.sportalliance.com/apis/magicline/connectapi/connectapi/i18n/getcountries.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "a1958d2360afedd55ce4d0374d474cc08c0ab5b238a4323e331faca828ba672d",
+      "saved_path": "apis/magicline/connectapi/connectapi/i18n/getcountries.md",
+      "last_sync": 1770207187
+    },
+    "https://redocly.sportalliance.com/apis/magicline/connectapi/connectapi/bankaccount/validateibanandlookupbic.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "1c4a4353105e978b70493da5be1fceaae2fdd9b33abe83932f6644ade756300b",
+      "saved_path": "apis/magicline/connectapi/connectapi/bankaccount/validateibanandlookupbic.md",
+      "last_sync": 1770207188
+    },
+    "https://redocly.sportalliance.com/apis/magicline/connectapi/connectapi/contracts/getactivestudiosingermanyv2.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "66f955719f8361bc114d67787bdd46bcecb6c1475d226fb7bf8dbaef838a52cb",
+      "saved_path": "apis/magicline/connectapi/connectapi/contracts/getactivestudiosingermanyv2.md",
+      "last_sync": 1770207188
+    },
+    "https://redocly.sportalliance.com/apis/magicline/connectapi/connectapi/validation/validatetaxid.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "4fe83ec9d00049b407d9d30c85632da9dfc2996a2ee1ab86dff5c4e026df0957",
+      "saved_path": "apis/magicline/connectapi/connectapi/validation/validatetaxid.md",
+      "last_sync": 1770207189
+    },
+    "https://redocly.sportalliance.com/apis/magicline/connectapi/connectapi/promotions/confirmcustomerparticipation.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "ee46bbe0f73fd3dc1583a102c0a38e990e297c4a488e3551faeaae77e2b9c17a",
+      "saved_path": "apis/magicline/connectapi/connectapi/promotions/confirmcustomerparticipation.md",
+      "last_sync": 1770207189
+    },
+    "https://redocly.sportalliance.com/apis/magicline/connectapi/connectapi/terminal/getcustomerdatabycodicefiscale.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "0de3e319ff89eaeabf5fd683095de8cce516a12da150fcae79ee9d3e31526de1",
+      "saved_path": "apis/magicline/connectapi/connectapi/terminal/getcustomerdatabycodicefiscale.md",
+      "last_sync": 1770207189
+    },
+    "https://redocly.sportalliance.com/apis/magicline/connectapi/connectapi/contracts/cancelcontractmanual.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "7fc6a4b972a8457a1019d2e5dcb321e25f45939a39e7c3d6b4832e8f77289266",
+      "saved_path": "apis/magicline/connectapi/connectapi/contracts/cancelcontractmanual.md",
+      "last_sync": 1770207189
+    },
+    "https://redocly.sportalliance.com/apis/magicline/connectapi/connectapi/image/generatepresignedurlforpreupload.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "b2cff1de3fe4ecc2cf5a3a79aff6b47e31170b2e089407aa9660d4e47ab4cadb",
+      "saved_path": "apis/magicline/connectapi/connectapi/image/generatepresignedurlforpreupload.md",
+      "last_sync": 1770207190
+    },
+    "https://redocly.sportalliance.com/apis/magicline/connectapi/connectapi/studios/getstudiolegallinks.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "bb0418456e3ec87ac49f63330331c92a1af4f4954e42713bf4f6c94b324cfeed",
+      "saved_path": "apis/magicline/connectapi/connectapi/studios/getstudiolegallinks.md",
+      "last_sync": 1770207190
+    },
+    "https://redocly.sportalliance.com/apis/magicline/connectapi/connectapi/creditcard-tokenization/completetokenizationv2.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "dc6733f5a1ed5363be3730c80b5f647dc19585afaa10bbe4e3d3d8eaaf0a7254",
+      "saved_path": "apis/magicline/connectapi/connectapi/creditcard-tokenization/completetokenizationv2.md",
+      "last_sync": 1770207190
+    },
+    "https://redocly.sportalliance.com/apis/magicline/deviceapi/deviceapi/time/timeusage.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "f4e25fc934765b998dde6d4b4d0aad4cc464b2bd5d0756f3db811ba515c87c7e",
+      "saved_path": "apis/magicline/deviceapi/deviceapi/time/timeusage.md",
+      "last_sync": 1770207191
+    },
+    "https://redocly.sportalliance.com/apis/magicline/deviceapi/deviceapi/vending/vendingidentification.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "13aa422c274a69b1eca8c2fd39a9a60d63a9ef8657181c2b4116a38cf8e206b1",
+      "saved_path": "apis/magicline/deviceapi/deviceapi/vending/vendingidentification.md",
+      "last_sync": 1770207191
+    },
+    "https://redocly.sportalliance.com/apis/magicline/deviceapi/deviceapi/time/timeprice.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "ab87c308bf5eb7002f12d83ac73a4432bb1a10af4ceef4291ff62f68f349d7f9",
+      "saved_path": "apis/magicline/deviceapi/deviceapi/time/timeprice.md",
+      "last_sync": 1770207192
+    },
+    "https://redocly.sportalliance.com/apis/magicline/deviceapi/deviceapi/time/timeidentification.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "cce8439ba6c73a6b82297f39b3132ef8b12ccee2e42153f7f0635db106a192de",
+      "saved_path": "apis/magicline/deviceapi/deviceapi/time/timeidentification.md",
+      "last_sync": 1770207192
+    },
+    "https://redocly.sportalliance.com/apis/magicline/deviceapi/deviceapi/vending/vendingrevalue.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "4333d44ce13e7673d3304fd20d64f167377cb3ff47a97bf401907451713c7832",
+      "saved_path": "apis/magicline/deviceapi/deviceapi/vending/vendingrevalue.md",
+      "last_sync": 1770207192
+    },
+    "https://redocly.sportalliance.com/apis/magicline/deviceapi/deviceapi/access/cardreaderidentification.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "eac5b808e713be23d91a092129d9421401829378f599b428d6fb6ce81a7be8d1",
+      "saved_path": "apis/magicline/deviceapi/deviceapi/access/cardreaderidentification.md",
+      "last_sync": 1770207193
+    },
+    "https://redocly.sportalliance.com/apis/magicline/deviceapi/deviceapi/vending/vendingsale.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "e32ff9f3c0f5169c5da9b8f23ca45cc5075d1ea764fde9d3e11d26f0b7957c1e",
+      "saved_path": "apis/magicline/deviceapi/deviceapi/vending/vendingsale.md",
+      "last_sync": 1770207193
+    },
+    "https://redocly.sportalliance.com/apis/magicline/deviceapi/general-information.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "05042ee07d47b7ca0b24dcdbe1e01b78d37bfbb8c822cb76f20422cfae8a1724",
+      "saved_path": "apis/magicline/deviceapi/general-information.md",
+      "last_sync": 1770207194
+    },
+    "https://redocly.sportalliance.com/apis/magicline/deviceapi/deviceapi/vending.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "01a4be25642db55f8180a917755dd4e1e8dc1cd68ffd60a6cc729eb333aeaa37",
+      "saved_path": "apis/magicline/deviceapi/deviceapi/vending.md",
+      "last_sync": 1770207194
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/openapi/devices.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "c7e7927ccd11375a5a489d869bcfb25c0913ce96bdfc68bd8ed8ee3a2a076843",
+      "saved_path": "apis/magicline/openapi/openapi/devices.md",
+      "last_sync": 1770207194
+    },
+    "https://redocly.sportalliance.com/apis/magicline/webhooks/event-types.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "f384e6989da603a788a0b0aceca3feede276bbccbac969281ae7a0f03d5edf62",
+      "saved_path": "apis/magicline/webhooks/event-types.md",
+      "last_sync": 1770207195
+    },
+    "https://redocly.sportalliance.com/apis/magicline/webhooks/general-information.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "274da213142f92ad26e52c355bd2428803aecec8e59e48ee220f0e2e49b5a876",
+      "saved_path": "apis/magicline/webhooks/general-information.md",
+      "last_sync": 1770207195
+    },
+    "https://redocly.sportalliance.com/apis/magicline/openapi/general-information.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "a09b2107bdd523972f4a5778423404df176c2695949699de0c648cda0c3fb718",
+      "saved_path": "apis/magicline/openapi/general-information.md",
+      "last_sync": 1770207195
+    },
+    "https://redocly.sportalliance.com/apis/magicline/webhooks/webhooks.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "d09647b1e95b92e53302df4e30025b01ea0b4ca94c2afa9d8b71876f581d1f40",
+      "saved_path": "apis/magicline/webhooks/webhooks.md",
+      "last_sync": 1770207195
+    },
+    "https://redocly.sportalliance.com/apis/magicline/webhooks/webhooks/webhook-api/webhook.md": {
+      "etag": null,
+      "last_modified": null,
+      "sha256": "f578f43f1bf385d62c7ceb41f26ca66231b6a6f23b1d597dfa50983706153819",
+      "saved_path": "apis/magicline/webhooks/webhooks/webhook-api/webhook.md",
+      "last_sync": 1770207196
+    }
+  }
+}
